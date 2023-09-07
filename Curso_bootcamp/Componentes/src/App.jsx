@@ -7,7 +7,7 @@ function App() {
         <p>Inserindo um children noo obj</p>
       </Titulo>
       <Titulo nome="Maria" idade="25" cor="blue" />
-      <Titulo nome="João" idade="30" salario="200" />
+      <Titulo nome="Joãox" idade="30" salario="200" />
     </>
   );
 }
